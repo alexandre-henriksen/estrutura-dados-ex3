@@ -1,0 +1,21 @@
+Problema: Arvore de espalhamento minimo (MSTP) - Kruskal
+Instância - solução
+dij10 - 7072
+dij20 - 15238
+dij40 - 26615
+dij50 - 30424
+
+Problema: Arvore de espalhamento minimo (MSTP) - Prim
+Instância - solução
+dij10 - 7072
+dij20 - 15238
+dij40 - 26615
+dij50 - 30424
+
+Problema: Caminho minimo (Dijkstra)
+Instância - solução
+dij10 - 5183
+dij20 - 3190
+dij40 - 8928
+dij50 - 6764
+
